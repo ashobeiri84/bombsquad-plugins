@@ -1,0 +1,17 @@
+{
+  "name": "Gameplay",
+  "plugins": {
+    "killer_punch": {
+      "description": "مشت مرگبار با پرتاب قوی و وان‌شات",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "AliDev"
+        }
+      ],
+      "versions": {
+        "1.0.0": null
+      }
+    }
+  }
+}
